@@ -2,6 +2,8 @@
 
 Agent skills maintained in this repository.
 
+Current version: `0.1.0`
+
 ## Quickstart
 
 Install from this repo with the same `skills.sh` flow used by Matt:
