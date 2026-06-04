@@ -1,0 +1,26 @@
+{
+  "name": "Synapse",
+  "description": "Dark ambient workspace UI with cyan signal accents, glass surfaces, and conversational state continuity.",
+  "colors": {
+    "background": "070c14",
+    "background_alt": "0b1524",
+    "text": "f2f6ff",
+    "text_secondary": "e2ecff",
+    "accent": "5dd7ff",
+    "accent_secondary": "7ef0ff",
+    "accent_tertiary": "2e84ff",
+    "code_bg": "060c18",
+    "card_bg": "121c2d",
+    "card_bg_alt": "142238"
+  },
+  "fonts": {
+    "heading": "Space Grotesk",
+    "body": "Plus Jakarta Sans",
+    "code": "Plus Jakarta Sans"
+  },
+  "assets": {
+    "logo": null,
+    "logo_dark": null,
+    "icon": null
+  }
+}

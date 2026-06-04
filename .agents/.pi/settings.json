@@ -1,0 +1,12 @@
+{
+  "skills": [
+    "-skills\\architecture-enforcer\\SKILL.md",
+    "-skills\\deploy-to-vercel\\SKILL.md",
+    "-skills\\vercel-cli-with-tokens\\SKILL.md",
+    "-skills\\vercel-composition-patterns\\SKILL.md",
+    "-skills\\vercel-react-best-practices\\SKILL.md",
+    "-skills\\vercel-react-native-skills\\SKILL.md",
+    "-skills\\vercel-react-view-transitions\\SKILL.md",
+    "-skills\\web-design-guidelines\\SKILL.md"
+  ]
+}

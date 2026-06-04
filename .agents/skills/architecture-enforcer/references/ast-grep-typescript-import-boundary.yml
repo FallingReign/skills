@@ -1,0 +1,9 @@
+id: no-direct-database-import
+language: TypeScript
+rule:
+  any:
+    - pattern: import $MODULE from "@/database/client"
+    - pattern: import { $$$IMPORTS } from "@/database/client"
+message: Route database access through the owning Cell API instead of importing "@/database/client" directly.
+severity: error
+note: Copy this rule into the target project and replace "@/database/client" with the real forbidden boundary import path.
